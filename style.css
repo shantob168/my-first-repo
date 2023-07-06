@@ -6,4 +6,12 @@ p{
   width: 400px;
   text-align: center;
   margin-left: 320px;
+  font-size: large;
+}
+body{
+  background-image: url('image/what_is_image_Processing.avif');
+ background-repeat: no-repeat;
+ background-size: 800px;
+ 
+
 }
